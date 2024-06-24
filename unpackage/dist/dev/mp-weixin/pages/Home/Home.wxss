@@ -1,0 +1,37 @@
+.HomeWrapper.data-v-7ffebbf4 {
+  width: 100%;
+  height: 1000px;
+  box-sizing: border-box;
+  padding: 30rpx;
+}
+.HomeWrapper .showTostButton.data-v-7ffebbf4,
+.HomeWrapper .showLoadingButton.data-v-7ffebbf4 {
+  margin-top: 30rpx;
+  width: 400rpx;
+}
+.HomeWrapper .test1.data-v-7ffebbf4 {
+  width: 100%;
+}
+.HomeWrapper .test1 .title.data-v-7ffebbf4 {
+  text-align: center;
+  font-size: 50rpx;
+}
+.HomeWrapper .body.data-v-7ffebbf4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.HomeWrapper .body .text.data-v-7ffebbf4 {
+  text-align: center;
+  font-size: 30rpx;
+  margin-top: 15rpx;
+}
+.HomeWrapper .body .code.data-v-7ffebbf4 {
+  width: 300rpx;
+  height: 300rpx;
+}
+.HomeWrapper .controller .button.data-v-7ffebbf4 {
+  margin-top: 30rpx;
+  width: 300rpx;
+}

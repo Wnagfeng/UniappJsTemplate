@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/Home/Home",
+    "pages/Service/Service",
+    "pages/Order/Order",
+    "pages/My/My"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "美猪",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#FF7200",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/Home/Home",
+        "text": "首页",
+        "iconPath": "static/Icons/Home.png",
+        "selectedIconPath": "static/Icons/Home_active.png"
+      },
+      {
+        "pagePath": "pages/Service/Service",
+        "text": "服务",
+        "iconPath": "static/Icons/Service.png",
+        "selectedIconPath": "static/Icons/Service_active.png"
+      },
+      {
+        "pagePath": "pages/Order/Order",
+        "text": "订单",
+        "iconPath": "static/Icons/Order.png",
+        "selectedIconPath": "static/Icons/Order_active.png"
+      },
+      {
+        "pagePath": "pages/My/My",
+        "text": "我的",
+        "iconPath": "static/Icons/My.png",
+        "selectedIconPath": "static/Icons/My_active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

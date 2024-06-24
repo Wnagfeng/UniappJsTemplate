@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tost": "../../Components/tost/index",
+    "loading": "../../Components/loading/index"
+  }
+}

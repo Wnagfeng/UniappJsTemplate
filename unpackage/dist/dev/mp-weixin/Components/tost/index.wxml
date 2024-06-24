@@ -1,0 +1,1 @@
+<view class="tostWrapper data-v-ac684a53" catchtouchmove="{{a}}"><view class="content data-v-ac684a53"><view class="header data-v-ac684a53"><slot name="header"></slot></view><view class="body data-v-ac684a53"><slot name="body"></slot></view><view class="controller data-v-ac684a53"><slot name="controller"></slot></view></view></view>

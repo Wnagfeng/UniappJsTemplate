@@ -1,0 +1,23 @@
+.tostWrapper.data-v-ac684a53 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tostWrapper .content.data-v-ac684a53 {
+  width: 80%;
+  background-color: aliceblue;
+  box-sizing: border-box;
+  border-radius: 20rpx;
+  padding: 20rpx;
+}
+.tostWrapper .content .header.data-v-ac684a53 {
+  width: 100%;
+  text-align: center;
+  font-size: 40rpx;
+}
